@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Scrapy stuff:
+.scrapy
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+env/
+.vscode/
+Evolutionary Salesman Project/Results_BruteSalesman.csv
+Evolutionary Salesman Project/Results_EvolutionSalesman.json
